@@ -1,4 +1,4 @@
-# Data Science Challenge @ Interdisciplinary Workshop on Machine Learning for Cryptology (ML4Crypto 2023)
+# Data Science Challenge @ Interdisciplinary Workshop on Machine Learning for Cryptology (ML4Crypto 2024)
 
 This Data Science Challenge is a part of the second version of interdisciplinary workshop on "Machine Learning for Cryptology" (ML4Crypto 2024) to be held during November 22-23, 2024 at Indian Statistical Institute, Kolkata. The webpage for the workshop is: https://www.isical.ac.in/~caiml/ml4crypto2024
 
